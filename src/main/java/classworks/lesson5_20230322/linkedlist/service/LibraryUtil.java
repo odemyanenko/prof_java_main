@@ -1,9 +1,10 @@
-package classworks.lesson5_20230322.linkedlist.core;
+package classworks.lesson5_20230322.linkedlist.service;
 
 import classworks.lesson5_20230322.linkedlist.entity.Author;
 import classworks.lesson5_20230322.linkedlist.entity.Book;
 import classworks.lesson5_20230322.linkedlist.service.InputData;
 
+import java.util.ArrayList;
 import java.util.LinkedList;
 import java.util.List;
 import java.util.Objects;
@@ -28,22 +29,25 @@ public class LibraryUtil {
     }
   }
 
-  public Book searchBook(List<Book> ourLibrary, String searchCriteria) {
-    Book bookAfterSearch = new Book(0, new Author(0, ""), "");
+  public List<Book> searchBook(List<Book> ourLibrary, String searchCriteria) {
+    List<Book> booksAfterSearch = new ArrayList<>();
     for (int i = 0; i < ourLibrary.size(); i++) {
-      if (Objects.equals(ourLibrary.get(i).getNameOfBook(), searchCriteria)){
-        bookAfterSearch = ourLibrary.get(i);
+      if (Objects.equals(ourLibrary.get(i).getNameOfBook(), searchCriteria)) {
+        booksAfterSearch.add(ourLibrary.get(i));
       }
     }
-    return bookAfterSearch;
+    return booksAfterSearch;
   }
 
-  public void deleteBook(List<Book> ourLibrary, Book bookForDelete) {
-    ourLibrary.remove(bookForDelete);
+  public void deleteBook(List<Book> ourLibrary, List<Book> booksForDelete) {
+    for (int i = 0; i < booksForDelete.size(); i++) {
+      ourLibrary.remove(booksForDelete.get(i));
+    }
   }
 
   public List<Book> createDuplicateLibrary(List<Book> ourLibrary) {
-    return null;
+    List<Book> duplicateCollection = new ArrayList<>(ourLibrary);
+    return duplicateCollection;
   }
 
   public void sortOurLibrary(List<Book> ourLibrary, boolean isGrow) {

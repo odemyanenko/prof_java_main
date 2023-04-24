@@ -1,7 +1,6 @@
 package homeworks.hw1_20230322;
 
 import java.util.ArrayList;
-import java.util.LinkedList;
 import java.util.List;
 import java.util.Random;
 
@@ -10,10 +9,6 @@ public class ListUtil {
 
   public static List<Integer> createArrayList() {
     return new ArrayList<>(MAX_COUNT_ELEMENTS);
-  }
-
-  public static List<Integer> createLinkedList() {
-    return new LinkedList<>();
   }
 
   public static void fillListRandomNumbers(List<Integer> list, int range) {

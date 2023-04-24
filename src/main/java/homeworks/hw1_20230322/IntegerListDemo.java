@@ -1,8 +1,6 @@
 package homeworks.hw1_20230322;
 
 import java.util.List;
-import java.util.Random;
-
 /*
 1)
 В классе IntegerListDemo создайте список целых чисел.
@@ -29,8 +27,6 @@ import java.util.Random;
 
 public class IntegerListDemo {
   public static void main(String[] args) {
-    Random random = new Random();
-
     System.out.println("Task 1");
     List<Integer> integerList;
     integerList = ListUtil.createArrayList();
