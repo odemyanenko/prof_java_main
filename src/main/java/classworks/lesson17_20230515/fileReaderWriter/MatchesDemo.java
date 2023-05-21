@@ -1,17 +1,18 @@
 package classworks.lesson17_20230515.fileReaderWriter;
 
+import classworks.lesson17_20230515.javaio.Reader;
+import classworks.lesson17_20230515.javaio.Writer;
+
 import java.io.*;
 import java.text.DateFormat;
 import java.text.ParseException;
 import java.text.SimpleDateFormat;
 import java.time.LocalDate;
-import java.util.ArrayList;
-import java.util.Arrays;
-import java.util.Date;
-import java.util.List;
+import java.util.*;
 
 public class MatchesDemo {
-  private static final String FILE_NAME= "matches_new.txt";
+  private static final String FILE_NAME = "matches_new.txt";
+  private static final String BINARY_FILE = "matches.bin";
 
   public static void main(String[] args) throws IOException, ParseException {
     List<Match> matches = new ArrayList<>();
@@ -32,27 +33,24 @@ public class MatchesDemo {
     matches.stream()
             .forEach(System.out::println);
 
+
+    //=========================================
+    Reader reader1 = new Reader();
+    Writer writer = new Writer();
     //write to file
-    writeFile(matches);
-    readFile();
+    writer.writeFile(matches, FILE_NAME);
+
+    //MyJavaVideo
+    reader1.readFile(FILE_NAME);
+
+    writer.writeObject(matches, BINARY_FILE);
+    List<Match> matchList = reader1.readObjects(BINARY_FILE);
+    matchList.forEach(System.out::println);
+
+//    writer.formattedWriteFile();
   }
 
-  private static void readFile() throws IOException {
-    BufferedReader reader1 = new BufferedReader(new FileReader(FILE_NAME));
-    String c;
-    while ((c = reader1.readLine()) != null){
-      System.out.println(c);
-    }
-  }
 
-  private static void writeFile(List<Match> matches) throws IOException {
-    try (PrintWriter writer = new PrintWriter(new FileWriter(FILE_NAME))) {
-      for (Match match : matches) {
-        writer.write("------------------------------------\n");
-        writer.write("Match: " + match.getDate() + "\nTeam1: " + match.getTeam1() + "\nTeam2: " + match.getTeam2() + "\nScope: " + match.getScore() + "\n");
-      }
-    }
-  }
 
   private static Match createMatch(String matchStr) throws ParseException {
     String[] match = matchStr.split(", ");

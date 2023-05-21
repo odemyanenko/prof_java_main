@@ -1,0 +1,1440 @@
+------------------------------------
+Match: Fri Jan 07 00:00:00 EET 2022
+Team1: FC Bayern Munich
+Team2: Borussia Monchengladbach
+Scope: 1:02
+------------------------------------
+Match: Sat Jan 08 00:00:00 EET 2022
+Team1: TSG 1899 Hoffenheim
+Team2: FC Augsburg
+Scope: 3:01
+------------------------------------
+Match: Sat Jan 08 00:00:00 EET 2022
+Team1: Freiburg
+Team2: Arminia Bielefeld
+Scope: 2:02
+------------------------------------
+Match: Sat Jan 08 00:00:00 EET 2022
+Team1: Bayer 04 Leverkusen
+Team2: 1. FC Union Berlin
+Scope: 2:02
+------------------------------------
+Match: Sat Jan 08 00:00:00 EET 2022
+Team1: SpVgg Greuther Fürth
+Team2: Stuttgart
+Scope: 0:00
+------------------------------------
+Match: Sat Jan 08 00:00:00 EET 2022
+Team1: RB Leipzig
+Team2: 1. FSV Mainz 05
+Scope: 4:01
+------------------------------------
+Match: Sat Jan 08 00:00:00 EET 2022
+Team1: Eintracht Frankfurt
+Team2: Borussia Dortmund
+Scope: 2:03
+------------------------------------
+Match: Sun Jan 09 00:00:00 EET 2022
+Team1: Hertha BSC
+Team2: 1. FC Cologne
+Scope: 1:03
+------------------------------------
+Match: Sun Jan 09 00:00:00 EET 2022
+Team1: VfL Bochum
+Team2: VfL Wolfsburg
+Scope: 1:00
+------------------------------------
+Match: Fri Jan 14 00:00:00 EET 2022
+Team1: Borussia Dortmund
+Team2: Freiburg
+Scope: 5:01
+------------------------------------
+Match: Sat Jan 15 00:00:00 EET 2022
+Team1: 1. FC Cologne
+Team2: FC Bayern Munich
+Scope: 0:04
+------------------------------------
+Match: Sat Jan 15 00:00:00 EET 2022
+Team1: 1. FSV Mainz 05
+Team2: VfL Bochum
+Scope: 1:00
+------------------------------------
+Match: Sat Jan 15 00:00:00 EET 2022
+Team1: 1. FC Union Berlin
+Team2: TSG 1899 Hoffenheim
+Scope: 2:01
+------------------------------------
+Match: Sat Jan 15 00:00:00 EET 2022
+Team1: Stuttgart
+Team2: RB Leipzig
+Scope: 0:02
+------------------------------------
+Match: Sat Jan 15 00:00:00 EET 2022
+Team1: VfL Wolfsburg
+Team2: Hertha BSC
+Scope: 0:00
+------------------------------------
+Match: Sat Jan 15 00:00:00 EET 2022
+Team1: Borussia Monchengladbach
+Team2: Bayer 04 Leverkusen
+Scope: 1:02
+------------------------------------
+Match: Sun Jan 16 00:00:00 EET 2022
+Team1: FC Augsburg
+Team2: Eintracht Frankfurt
+Scope: 1:01
+------------------------------------
+Match: Sun Jan 16 00:00:00 EET 2022
+Team1: Arminia Bielefeld
+Team2: SpVgg Greuther Fürth
+Scope: 2:02
+------------------------------------
+Match: Fri Jan 21 00:00:00 EET 2022
+Team1: Eintracht Frankfurt
+Team2: Arminia Bielefeld
+Scope: 0:02
+------------------------------------
+Match: Sat Jan 22 00:00:00 EET 2022
+Team1: TSG 1899 Hoffenheim
+Team2: Borussia Dortmund
+Scope: 2:03
+------------------------------------
+Match: Sat Jan 22 00:00:00 EET 2022
+Team1: SpVgg Greuther Fürth
+Team2: 1. FSV Mainz 05
+Scope: 2:01
+------------------------------------
+Match: Sat Jan 22 00:00:00 EET 2022
+Team1: Freiburg
+Team2: Stuttgart
+Scope: 2:00
+------------------------------------
+Match: Sat Jan 22 00:00:00 EET 2022
+Team1: Borussia Monchengladbach
+Team2: 1. FC Union Berlin
+Scope: 1:02
+------------------------------------
+Match: Sat Jan 22 00:00:00 EET 2022
+Team1: Bayer 04 Leverkusen
+Team2: FC Augsburg
+Scope: 5:01
+------------------------------------
+Match: Sat Jan 22 00:00:00 EET 2022
+Team1: VfL Bochum
+Team2: 1. FC Cologne
+Scope: 2:02
+------------------------------------
+Match: Sun Jan 23 00:00:00 EET 2022
+Team1: RB Leipzig
+Team2: VfL Wolfsburg
+Scope: 2:00
+------------------------------------
+Match: Sun Jan 23 00:00:00 EET 2022
+Team1: Hertha BSC
+Team2: FC Bayern Munich
+Scope: 1:04
+------------------------------------
+Match: Fri Feb 04 00:00:00 EET 2022
+Team1: Hertha BSC
+Team2: VfL Bochum
+Scope: 1:01
+------------------------------------
+Match: Sat Feb 05 00:00:00 EET 2022
+Team1: 1. FSV Mainz 05
+Team2: TSG 1899 Hoffenheim
+Scope: 2:00
+------------------------------------
+Match: Sat Feb 05 00:00:00 EET 2022
+Team1: Stuttgart
+Team2: Eintracht Frankfurt
+Scope: 2:03
+------------------------------------
+Match: Sat Feb 05 00:00:00 EET 2022
+Team1: 1. FC Cologne
+Team2: Freiburg
+Scope: 1:00
+------------------------------------
+Match: Sat Feb 05 00:00:00 EET 2022
+Team1: Arminia Bielefeld
+Team2: Borussia Monchengladbach
+Scope: 1:01
+------------------------------------
+Match: Sat Feb 05 00:00:00 EET 2022
+Team1: FC Augsburg
+Team2: 1. FC Union Berlin
+Scope: 2:00
+------------------------------------
+Match: Sat Feb 05 00:00:00 EET 2022
+Team1: FC Bayern Munich
+Team2: RB Leipzig
+Scope: 3:02
+------------------------------------
+Match: Sun Feb 06 00:00:00 EET 2022
+Team1: Borussia Dortmund
+Team2: Bayer 04 Leverkusen
+Scope: 2:05
+------------------------------------
+Match: Sun Feb 06 00:00:00 EET 2022
+Team1: VfL Wolfsburg
+Team2: SpVgg Greuther Fürth
+Scope: 4:01
+------------------------------------
+Match: Fri Feb 11 00:00:00 EET 2022
+Team1: RB Leipzig
+Team2: 1. FC Cologne
+Scope: 3:01
+------------------------------------
+Match: Sat Feb 12 00:00:00 EET 2022
+Team1: Eintracht Frankfurt
+Team2: VfL Wolfsburg
+Scope: 0:02
+------------------------------------
+Match: Sat Feb 12 00:00:00 EET 2022
+Team1: VfL Bochum
+Team2: FC Bayern Munich
+Scope: 4:02
+------------------------------------
+Match: Sat Feb 12 00:00:00 EET 2022
+Team1: Borussia Monchengladbach
+Team2: FC Augsburg
+Scope: 3:02
+------------------------------------
+Match: Sat Feb 12 00:00:00 EET 2022
+Team1: SpVgg Greuther Fürth
+Team2: Hertha BSC
+Scope: 2:01
+------------------------------------
+Match: Sat Feb 12 00:00:00 EET 2022
+Team1: Freiburg
+Team2: 1. FSV Mainz 05
+Scope: 1:01
+------------------------------------
+Match: Sat Feb 12 00:00:00 EET 2022
+Team1: Bayer 04 Leverkusen
+Team2: Stuttgart
+Scope: 4:02
+------------------------------------
+Match: Sun Feb 13 00:00:00 EET 2022
+Team1: 1. FC Union Berlin
+Team2: Borussia Dortmund
+Scope: 0:03
+------------------------------------
+Match: Sun Feb 13 00:00:00 EET 2022
+Team1: TSG 1899 Hoffenheim
+Team2: Arminia Bielefeld
+Scope: 2:00
+------------------------------------
+Match: Fri Feb 18 00:00:00 EET 2022
+Team1: 1. FSV Mainz 05
+Team2: Bayer 04 Leverkusen
+Scope: 3:02
+------------------------------------
+Match: Sat Feb 19 00:00:00 EET 2022
+Team1: Stuttgart
+Team2: VfL Bochum
+Scope: 1:01
+------------------------------------
+Match: Sat Feb 19 00:00:00 EET 2022
+Team1: VfL Wolfsburg
+Team2: TSG 1899 Hoffenheim
+Scope: 1:02
+------------------------------------
+Match: Sat Feb 19 00:00:00 EET 2022
+Team1: Arminia Bielefeld
+Team2: 1. FC Union Berlin
+Scope: 1:00
+------------------------------------
+Match: Sat Feb 19 00:00:00 EET 2022
+Team1: FC Augsburg
+Team2: Freiburg
+Scope: 1:02
+------------------------------------
+Match: Sat Feb 19 00:00:00 EET 2022
+Team1: 1. FC Cologne
+Team2: Eintracht Frankfurt
+Scope: 1:00
+------------------------------------
+Match: Sun Feb 20 00:00:00 EET 2022
+Team1: FC Bayern Munich
+Team2: SpVgg Greuther Fürth
+Scope: 4:01
+------------------------------------
+Match: Sun Feb 20 00:00:00 EET 2022
+Team1: Borussia Dortmund
+Team2: Borussia Monchengladbach
+Scope: 6:00
+------------------------------------
+Match: Sun Feb 20 00:00:00 EET 2022
+Team1: Hertha BSC
+Team2: RB Leipzig
+Scope: 1:06
+------------------------------------
+Match: Fri Feb 25 00:00:00 EET 2022
+Team1: TSG 1899 Hoffenheim
+Team2: Stuttgart
+Scope: 2:01
+------------------------------------
+Match: Sat Feb 26 00:00:00 EET 2022
+Team1: 1. FC Union Berlin
+Team2: 1. FSV Mainz 05
+Scope: 3:01
+------------------------------------
+Match: Sat Feb 26 00:00:00 EET 2022
+Team1: Borussia Monchengladbach
+Team2: VfL Wolfsburg
+Scope: 2:02
+------------------------------------
+Match: Sat Feb 26 00:00:00 EET 2022
+Team1: SpVgg Greuther Fürth
+Team2: 1. FC Cologne
+Scope: 1:01
+------------------------------------
+Match: Sat Feb 26 00:00:00 EET 2022
+Team1: Freiburg
+Team2: Hertha BSC
+Scope: 3:00
+------------------------------------
+Match: Sat Feb 26 00:00:00 EET 2022
+Team1: Bayer 04 Leverkusen
+Team2: Arminia Bielefeld
+Scope: 3:00
+------------------------------------
+Match: Sat Feb 26 00:00:00 EET 2022
+Team1: Eintracht Frankfurt
+Team2: FC Bayern Munich
+Scope: 0:01
+------------------------------------
+Match: Sun Feb 27 00:00:00 EET 2022
+Team1: VfL Bochum
+Team2: RB Leipzig
+Scope: 0:01
+------------------------------------
+Match: Sun Feb 27 00:00:00 EET 2022
+Team1: FC Augsburg
+Team2: Borussia Dortmund
+Scope: 1:01
+------------------------------------
+Match: Fri Mar 04 00:00:00 EET 2022
+Team1: Arminia Bielefeld
+Team2: FC Augsburg
+Scope: 0:01
+------------------------------------
+Match: Sat Mar 05 00:00:00 EET 2022
+Team1: VfL Bochum
+Team2: SpVgg Greuther Fürth
+Scope: 2:01
+------------------------------------
+Match: Sat Mar 05 00:00:00 EET 2022
+Team1: RB Leipzig
+Team2: Freiburg
+Scope: 1:01
+------------------------------------
+Match: Sat Mar 05 00:00:00 EET 2022
+Team1: FC Bayern Munich
+Team2: Bayer 04 Leverkusen
+Scope: 1:01
+------------------------------------
+Match: Sat Mar 05 00:00:00 EET 2022
+Team1: Hertha BSC
+Team2: Eintracht Frankfurt
+Scope: 1:04
+------------------------------------
+Match: Sat Mar 05 00:00:00 EET 2022
+Team1: VfL Wolfsburg
+Team2: 1. FC Union Berlin
+Scope: 1:00
+------------------------------------
+Match: Sat Mar 05 00:00:00 EET 2022
+Team1: Stuttgart
+Team2: Borussia Monchengladbach
+Scope: 3:02
+------------------------------------
+Match: Sun Mar 06 00:00:00 EET 2022
+Team1: 1. FC Cologne
+Team2: TSG 1899 Hoffenheim
+Scope: 0:01
+------------------------------------
+Match: Wed Mar 16 00:00:00 EET 2022
+Team1: 1. FSV Mainz 05
+Team2: Borussia Dortmund
+Scope: 0:01
+------------------------------------
+Match: Sat Mar 12 00:00:00 EET 2022
+Team1: Freiburg
+Team2: VfL Wolfsburg
+Scope: 3:02
+------------------------------------
+Match: Sat Mar 12 00:00:00 EET 2022
+Team1: 1. FC Union Berlin
+Team2: Stuttgart
+Scope: 1:01
+------------------------------------
+Match: Sat Mar 12 00:00:00 EET 2022
+Team1: TSG 1899 Hoffenheim
+Team2: FC Bayern Munich
+Scope: 1:01
+------------------------------------
+Match: Sat Mar 12 00:00:00 EET 2022
+Team1: Borussia Monchengladbach
+Team2: Hertha BSC
+Scope: 2:00
+------------------------------------
+Match: Sun Mar 13 00:00:00 EET 2022
+Team1: Bayer 04 Leverkusen
+Team2: 1. FC Cologne
+Scope: 0:01
+------------------------------------
+Match: Sun Mar 13 00:00:00 EET 2022
+Team1: Borussia Dortmund
+Team2: Arminia Bielefeld
+Scope: 1:00
+------------------------------------
+Match: Sun Mar 13 00:00:00 EET 2022
+Team1: Eintracht Frankfurt
+Team2: VfL Bochum
+Scope: 2:01
+------------------------------------
+Match: Sun Mar 13 00:00:00 EET 2022
+Team1: SpVgg Greuther Fürth
+Team2: RB Leipzig
+Scope: 1:06
+------------------------------------
+Match: Fri Mar 18 00:00:00 EET 2022
+Team1: VfL Bochum
+Team2: Borussia Monchengladbach
+Scope: 0:02
+------------------------------------
+Match: Sat Mar 19 00:00:00 EET 2022
+Team1: Hertha BSC
+Team2: TSG 1899 Hoffenheim
+Scope: 3:00
+------------------------------------
+Match: Sat Mar 19 00:00:00 EET 2022
+Team1: Stuttgart
+Team2: FC Augsburg
+Scope: 3:02
+------------------------------------
+Match: Sat Mar 19 00:00:00 EET 2022
+Team1: SpVgg Greuther Fürth
+Team2: Freiburg
+Scope: 0:00
+------------------------------------
+Match: Sat Mar 19 00:00:00 EET 2022
+Team1: 1. FSV Mainz 05
+Team2: Arminia Bielefeld
+Scope: 4:00
+------------------------------------
+Match: Sat Mar 19 00:00:00 EET 2022
+Team1: FC Bayern Munich
+Team2: 1. FC Union Berlin
+Scope: 4:00
+------------------------------------
+Match: Sun Mar 20 00:00:00 EET 2022
+Team1: RB Leipzig
+Team2: Eintracht Frankfurt
+Scope: 0:00
+------------------------------------
+Match: Sun Mar 20 00:00:00 EET 2022
+Team1: VfL Wolfsburg
+Team2: Bayer 04 Leverkusen
+Scope: 0:02
+------------------------------------
+Match: Sun Mar 20 00:00:00 EET 2022
+Team1: 1. FC Cologne
+Team2: Borussia Dortmund
+Scope: 1:01
+------------------------------------
+Match: Wed Apr 06 00:00:00 EEST 2022
+Team1: FC Augsburg
+Team2: 1. FSV Mainz 05
+Scope: 2:01
+------------------------------------
+Match: Fri Apr 01 00:00:00 EEST 2022
+Team1: 1. FC Union Berlin
+Team2: 1. FC Cologne
+Scope: 1:00
+------------------------------------
+Match: Sat Apr 02 00:00:00 EEST 2022
+Team1: Freiburg
+Team2: FC Bayern Munich
+Scope: 1:04
+------------------------------------
+Match: Sat Apr 02 00:00:00 EEST 2022
+Team1: Bayer 04 Leverkusen
+Team2: Hertha BSC
+Scope: 2:01
+------------------------------------
+Match: Sat Apr 02 00:00:00 EEST 2022
+Team1: TSG 1899 Hoffenheim
+Team2: VfL Bochum
+Scope: 1:02
+------------------------------------
+Match: Sat Apr 02 00:00:00 EEST 2022
+Team1: Eintracht Frankfurt
+Team2: SpVgg Greuther Fürth
+Scope: 0:00
+------------------------------------
+Match: Sat Apr 02 00:00:00 EEST 2022
+Team1: Arminia Bielefeld
+Team2: Stuttgart
+Scope: 1:01
+------------------------------------
+Match: Sat Apr 02 00:00:00 EEST 2022
+Team1: Borussia Dortmund
+Team2: RB Leipzig
+Scope: 1:04
+------------------------------------
+Match: Sun Apr 03 00:00:00 EEST 2022
+Team1: FC Augsburg
+Team2: VfL Wolfsburg
+Scope: 3:00
+------------------------------------
+Match: Sun Apr 03 00:00:00 EEST 2022
+Team1: Borussia Monchengladbach
+Team2: 1. FSV Mainz 05
+Scope: 1:01
+------------------------------------
+Match: Fri Apr 08 00:00:00 EEST 2022
+Team1: Stuttgart
+Team2: Borussia Dortmund
+Scope: 0:02
+------------------------------------
+Match: Sat Apr 09 00:00:00 EEST 2022
+Team1: SpVgg Greuther Fürth
+Team2: Borussia Monchengladbach
+Scope: 0:02
+------------------------------------
+Match: Sat Apr 09 00:00:00 EEST 2022
+Team1: FC Bayern Munich
+Team2: FC Augsburg
+Scope: 1:00
+------------------------------------
+Match: Sat Apr 09 00:00:00 EEST 2022
+Team1: 1. FC Cologne
+Team2: 1. FSV Mainz 05
+Scope: 3:02
+------------------------------------
+Match: Sat Apr 09 00:00:00 EEST 2022
+Team1: VfL Wolfsburg
+Team2: Arminia Bielefeld
+Scope: 4:00
+------------------------------------
+Match: Sat Apr 09 00:00:00 EEST 2022
+Team1: Hertha BSC
+Team2: 1. FC Union Berlin
+Scope: 1:04
+------------------------------------
+Match: Sun Apr 10 00:00:00 EEST 2022
+Team1: VfL Bochum
+Team2: Bayer 04 Leverkusen
+Scope: 0:00
+------------------------------------
+Match: Sun Apr 10 00:00:00 EEST 2022
+Team1: Eintracht Frankfurt
+Team2: Freiburg
+Scope: 1:02
+------------------------------------
+Match: Sun Apr 10 00:00:00 EEST 2022
+Team1: RB Leipzig
+Team2: TSG 1899 Hoffenheim
+Scope: 3:00
+------------------------------------
+Match: Sat Apr 16 00:00:00 EEST 2022
+Team1: Borussia Dortmund
+Team2: VfL Wolfsburg
+Scope: 6:01
+------------------------------------
+Match: Sat Apr 16 00:00:00 EEST 2022
+Team1: FC Augsburg
+Team2: Hertha BSC
+Scope: 0:01
+------------------------------------
+Match: Sat Apr 16 00:00:00 EEST 2022
+Team1: 1. FSV Mainz 05
+Team2: Stuttgart
+Scope: 0:00
+------------------------------------
+Match: Sat Apr 16 00:00:00 EEST 2022
+Team1: Freiburg
+Team2: VfL Bochum
+Scope: 3:00
+------------------------------------
+Match: Sat Apr 16 00:00:00 EEST 2022
+Team1: Borussia Monchengladbach
+Team2: 1. FC Cologne
+Scope: 1:03
+------------------------------------
+Match: Sun Apr 17 00:00:00 EEST 2022
+Team1: Arminia Bielefeld
+Team2: FC Bayern Munich
+Scope: 0:03
+------------------------------------
+Match: Sun Apr 17 00:00:00 EEST 2022
+Team1: 1. FC Union Berlin
+Team2: Eintracht Frankfurt
+Scope: 2:00
+------------------------------------
+Match: Sun Apr 17 00:00:00 EEST 2022
+Team1: TSG 1899 Hoffenheim
+Team2: SpVgg Greuther Fürth
+Scope: 0:00
+------------------------------------
+Match: Sun Apr 17 00:00:00 EEST 2022
+Team1: Bayer 04 Leverkusen
+Team2: RB Leipzig
+Scope: 0:01
+------------------------------------
+Match: Fri Apr 22 00:00:00 EEST 2022
+Team1: VfL Wolfsburg
+Team2: 1. FSV Mainz 05
+Scope: 5:00
+------------------------------------
+Match: Sat Apr 23 00:00:00 EEST 2022
+Team1: RB Leipzig
+Team2: 1. FC Union Berlin
+Scope: 1:02
+------------------------------------
+Match: Sat Apr 23 00:00:00 EEST 2022
+Team1: Freiburg
+Team2: Borussia Monchengladbach
+Scope: 3:03
+------------------------------------
+Match: Sat Apr 23 00:00:00 EEST 2022
+Team1: 1. FC Cologne
+Team2: Arminia Bielefeld
+Scope: 3:01
+------------------------------------
+Match: Sat Apr 23 00:00:00 EEST 2022
+Team1: SpVgg Greuther Fürth
+Team2: Bayer 04 Leverkusen
+Scope: 1:04
+------------------------------------
+Match: Sat Apr 23 00:00:00 EEST 2022
+Team1: Eintracht Frankfurt
+Team2: TSG 1899 Hoffenheim
+Scope: 2:02
+------------------------------------
+Match: Sat Apr 23 00:00:00 EEST 2022
+Team1: FC Bayern Munich
+Team2: Borussia Dortmund
+Scope: 3:01
+------------------------------------
+Match: Sun Apr 24 00:00:00 EEST 2022
+Team1: VfL Bochum
+Team2: FC Augsburg
+Scope: 0:02
+------------------------------------
+Match: Sun Apr 24 00:00:00 EEST 2022
+Team1: Hertha BSC
+Team2: Stuttgart
+Scope: 2:00
+------------------------------------
+Match: Fri Apr 29 00:00:00 EEST 2022
+Team1: 1. FC Union Berlin
+Team2: SpVgg Greuther Fürth
+Scope: 1:01
+------------------------------------
+Match: Sat Apr 30 00:00:00 EEST 2022
+Team1: Borussia Dortmund
+Team2: VfL Bochum
+Scope: 3:04
+------------------------------------
+Match: Sat Apr 30 00:00:00 EEST 2022
+Team1: Arminia Bielefeld
+Team2: Hertha BSC
+Scope: 1:01
+------------------------------------
+Match: Sat Apr 30 00:00:00 EEST 2022
+Team1: 1. FSV Mainz 05
+Team2: FC Bayern Munich
+Scope: 3:01
+------------------------------------
+Match: Sat Apr 30 00:00:00 EEST 2022
+Team1: Stuttgart
+Team2: VfL Wolfsburg
+Scope: 1:01
+------------------------------------
+Match: Sat Apr 30 00:00:00 EEST 2022
+Team1: FC Augsburg
+Team2: 1. FC Cologne
+Scope: 1:04
+------------------------------------
+Match: Sat Apr 30 00:00:00 EEST 2022
+Team1: TSG 1899 Hoffenheim
+Team2: Freiburg
+Scope: 3:04
+------------------------------------
+Match: Mon May 02 00:00:00 EEST 2022
+Team1: Borussia Monchengladbach
+Team2: RB Leipzig
+Scope: 3:01
+------------------------------------
+Match: Mon May 02 00:00:00 EEST 2022
+Team1: Bayer 04 Leverkusen
+Team2: Eintracht Frankfurt
+Scope: 2:00
+------------------------------------
+Match: Fri May 06 00:00:00 EEST 2022
+Team1: VfL Bochum
+Team2: Arminia Bielefeld
+Scope: 2:01
+------------------------------------
+Match: Sat May 07 00:00:00 EEST 2022
+Team1: Freiburg
+Team2: 1. FC Union Berlin
+Scope: 1:04
+------------------------------------
+Match: Sat May 07 00:00:00 EEST 2022
+Team1: TSG 1899 Hoffenheim
+Team2: Bayer 04 Leverkusen
+Scope: 2:04
+------------------------------------
+Match: Sat May 07 00:00:00 EEST 2022
+Team1: 1. FC Cologne
+Team2: VfL Wolfsburg
+Scope: 0:01
+------------------------------------
+Match: Sat May 07 00:00:00 EEST 2022
+Team1: SpVgg Greuther Fürth
+Team2: Borussia Dortmund
+Scope: 1:03
+------------------------------------
+Match: Sat May 07 00:00:00 EEST 2022
+Team1: Hertha BSC
+Team2: 1. FSV Mainz 05
+Scope: 1:02
+------------------------------------
+Match: Sun May 08 00:00:00 EEST 2022
+Team1: Eintracht Frankfurt
+Team2: Borussia Monchengladbach
+Scope: 1:01
+------------------------------------
+Match: Sun May 08 00:00:00 EEST 2022
+Team1: FC Bayern Munich
+Team2: Stuttgart
+Scope: 2:02
+------------------------------------
+Match: Sun May 08 00:00:00 EEST 2022
+Team1: RB Leipzig
+Team2: FC Augsburg
+Scope: 4:00
+------------------------------------
+Match: Sat May 14 00:00:00 EEST 2022
+Team1: Stuttgart
+Team2: 1. FC Cologne
+Scope: 2:01
+------------------------------------
+Match: Sat May 14 00:00:00 EEST 2022
+Team1: Bayer 04 Leverkusen
+Team2: Freiburg
+Scope: 2:01
+------------------------------------
+Match: Sat May 14 00:00:00 EEST 2022
+Team1: VfL Wolfsburg
+Team2: FC Bayern Munich
+Scope: 2:02
+------------------------------------
+Match: Sat May 14 00:00:00 EEST 2022
+Team1: Borussia Dortmund
+Team2: Hertha BSC
+Scope: 2:01
+------------------------------------
+Match: Sat May 14 00:00:00 EEST 2022
+Team1: FC Augsburg
+Team2: SpVgg Greuther Fürth
+Scope: 2:01
+------------------------------------
+Match: Sat May 14 00:00:00 EEST 2022
+Team1: 1. FSV Mainz 05
+Team2: Eintracht Frankfurt
+Scope: 2:02
+------------------------------------
+Match: Sat May 14 00:00:00 EEST 2022
+Team1: Arminia Bielefeld
+Team2: RB Leipzig
+Scope: 1:01
+------------------------------------
+Match: Sat May 14 00:00:00 EEST 2022
+Team1: 1. FC Union Berlin
+Team2: VfL Bochum
+Scope: 3:02
+------------------------------------
+Match: Sat May 14 00:00:00 EEST 2022
+Team1: Borussia Monchengladbach
+Team2: TSG 1899 Hoffenheim
+Scope: 5:01
+------------------------------------
+Match: Fri Aug 05 00:00:00 EEST 2022
+Team1: Eintracht Frankfurt
+Team2: FC Bayern Munich
+Scope: 1:06
+------------------------------------
+Match: Sat Aug 06 00:00:00 EEST 2022
+Team1: VfL Bochum
+Team2: 1. FSV Mainz 05
+Scope: 1:02
+------------------------------------
+Match: Sat Aug 06 00:00:00 EEST 2022
+Team1: VfL Wolfsburg
+Team2: Werder Bremen
+Scope: 2:02
+------------------------------------
+Match: Sat Aug 06 00:00:00 EEST 2022
+Team1: Borussia Monchengladbach
+Team2: TSG 1899 Hoffenheim
+Scope: 3:01
+------------------------------------
+Match: Sat Aug 06 00:00:00 EEST 2022
+Team1: 1. FC Union Berlin
+Team2: Hertha BSC
+Scope: 3:01
+------------------------------------
+Match: Sat Aug 06 00:00:00 EEST 2022
+Team1: FC Augsburg
+Team2: Freiburg
+Scope: 0:04
+------------------------------------
+Match: Sat Aug 06 00:00:00 EEST 2022
+Team1: Borussia Dortmund
+Team2: Bayer 04 Leverkusen
+Scope: 1:00
+------------------------------------
+Match: Sun Aug 07 00:00:00 EEST 2022
+Team1: Stuttgart
+Team2: RB Leipzig
+Scope: 1:01
+------------------------------------
+Match: Sun Aug 07 00:00:00 EEST 2022
+Team1: 1. FC Cologne
+Team2: FC Schalke 04
+Scope: 3:01
+------------------------------------
+Match: Fri Aug 12 00:00:00 EEST 2022
+Team1: Freiburg
+Team2: Borussia Dortmund
+Scope: 1:03
+------------------------------------
+Match: Sat Aug 13 00:00:00 EEST 2022
+Team1: Bayer 04 Leverkusen
+Team2: FC Augsburg
+Scope: 1:02
+------------------------------------
+Match: Sat Aug 13 00:00:00 EEST 2022
+Team1: Werder Bremen
+Team2: Stuttgart
+Scope: 2:02
+------------------------------------
+Match: Sat Aug 13 00:00:00 EEST 2022
+Team1: Hertha BSC
+Team2: Eintracht Frankfurt
+Scope: 1:01
+------------------------------------
+Match: Sat Aug 13 00:00:00 EEST 2022
+Team1: TSG 1899 Hoffenheim
+Team2: VfL Bochum
+Scope: 3:02
+------------------------------------
+Match: Sat Aug 13 00:00:00 EEST 2022
+Team1: RB Leipzig
+Team2: 1. FC Cologne
+Scope: 2:02
+------------------------------------
+Match: Sat Aug 13 00:00:00 EEST 2022
+Team1: FC Schalke 04
+Team2: Borussia Monchengladbach
+Scope: 2:02
+------------------------------------
+Match: Sun Aug 14 00:00:00 EEST 2022
+Team1: 1. FSV Mainz 05
+Team2: 1. FC Union Berlin
+Scope: 0:00
+------------------------------------
+Match: Sun Aug 14 00:00:00 EEST 2022
+Team1: FC Bayern Munich
+Team2: VfL Wolfsburg
+Scope: 2:00
+------------------------------------
+Match: Fri Aug 19 00:00:00 EEST 2022
+Team1: Borussia Monchengladbach
+Team2: Hertha BSC
+Scope: 1:00
+------------------------------------
+Match: Sat Aug 20 00:00:00 EEST 2022
+Team1: Stuttgart
+Team2: Freiburg
+Scope: 0:01
+------------------------------------
+Match: Sat Aug 20 00:00:00 EEST 2022
+Team1: Borussia Dortmund
+Team2: Werder Bremen
+Scope: 2:03
+------------------------------------
+Match: Sat Aug 20 00:00:00 EEST 2022
+Team1: VfL Wolfsburg
+Team2: FC Schalke 04
+Scope: 0:00
+------------------------------------
+Match: Sat Aug 20 00:00:00 EEST 2022
+Team1: FC Augsburg
+Team2: 1. FSV Mainz 05
+Scope: 1:02
+------------------------------------
+Match: Sat Aug 20 00:00:00 EEST 2022
+Team1: Bayer 04 Leverkusen
+Team2: TSG 1899 Hoffenheim
+Scope: 0:03
+------------------------------------
+Match: Sat Aug 20 00:00:00 EEST 2022
+Team1: 1. FC Union Berlin
+Team2: RB Leipzig
+Scope: 2:01
+------------------------------------
+Match: Sun Aug 21 00:00:00 EEST 2022
+Team1: Eintracht Frankfurt
+Team2: 1. FC Cologne
+Scope: 1:01
+------------------------------------
+Match: Sun Aug 21 00:00:00 EEST 2022
+Team1: VfL Bochum
+Team2: FC Bayern Munich
+Scope: 0:07
+------------------------------------
+Match: Fri Aug 26 00:00:00 EEST 2022
+Team1: Freiburg
+Team2: VfL Bochum
+Scope: 1:00
+------------------------------------
+Match: Sat Aug 27 00:00:00 EEST 2022
+Team1: RB Leipzig
+Team2: VfL Wolfsburg
+Scope: 2:00
+------------------------------------
+Match: Sat Aug 27 00:00:00 EEST 2022
+Team1: Hertha BSC
+Team2: Borussia Dortmund
+Scope: 0:01
+------------------------------------
+Match: Sat Aug 27 00:00:00 EEST 2022
+Team1: 1. FSV Mainz 05
+Team2: Bayer 04 Leverkusen
+Scope: 0:03
+------------------------------------
+Match: Sat Aug 27 00:00:00 EEST 2022
+Team1: TSG 1899 Hoffenheim
+Team2: FC Augsburg
+Scope: 1:00
+------------------------------------
+Match: Sat Aug 27 00:00:00 EEST 2022
+Team1: FC Schalke 04
+Team2: 1. FC Union Berlin
+Scope: 1:06
+------------------------------------
+Match: Sat Aug 27 00:00:00 EEST 2022
+Team1: FC Bayern Munich
+Team2: Borussia Monchengladbach
+Scope: 1:01
+------------------------------------
+Match: Sun Aug 28 00:00:00 EEST 2022
+Team1: 1. FC Cologne
+Team2: Stuttgart
+Scope: 0:00
+------------------------------------
+Match: Sun Aug 28 00:00:00 EEST 2022
+Team1: Werder Bremen
+Team2: Eintracht Frankfurt
+Scope: 3:04
+------------------------------------
+Match: Fri Sep 02 00:00:00 EEST 2022
+Team1: Borussia Dortmund
+Team2: TSG 1899 Hoffenheim
+Scope: 1:00
+------------------------------------
+Match: Sat Sep 03 00:00:00 EEST 2022
+Team1: Stuttgart
+Team2: FC Schalke 04
+Scope: 1:01
+------------------------------------
+Match: Sat Sep 03 00:00:00 EEST 2022
+Team1: VfL Bochum
+Team2: Werder Bremen
+Scope: 0:02
+------------------------------------
+Match: Sat Sep 03 00:00:00 EEST 2022
+Team1: Bayer 04 Leverkusen
+Team2: Freiburg
+Scope: 2:03
+------------------------------------
+Match: Sat Sep 03 00:00:00 EEST 2022
+Team1: 1. FC Union Berlin
+Team2: FC Bayern Munich
+Scope: 1:01
+------------------------------------
+Match: Sat Sep 03 00:00:00 EEST 2022
+Team1: VfL Wolfsburg
+Team2: 1. FC Cologne
+Scope: 2:04
+------------------------------------
+Match: Sat Sep 03 00:00:00 EEST 2022
+Team1: Eintracht Frankfurt
+Team2: RB Leipzig
+Scope: 4:00
+------------------------------------
+Match: Sun Sep 04 00:00:00 EEST 2022
+Team1: FC Augsburg
+Team2: Hertha BSC
+Scope: 0:02
+------------------------------------
+Match: Sun Sep 04 00:00:00 EEST 2022
+Team1: Borussia Monchengladbach
+Team2: 1. FSV Mainz 05
+Scope: 0:01
+------------------------------------
+Match: Fri Sep 09 00:00:00 EEST 2022
+Team1: Werder Bremen
+Team2: FC Augsburg
+Scope: 0:01
+------------------------------------
+Match: Sat Sep 10 00:00:00 EEST 2022
+Team1: Hertha BSC
+Team2: Bayer 04 Leverkusen
+Scope: 2:02
+------------------------------------
+Match: Sat Sep 10 00:00:00 EEST 2022
+Team1: TSG 1899 Hoffenheim
+Team2: 1. FSV Mainz 05
+Scope: 4:01
+------------------------------------
+Match: Sat Sep 10 00:00:00 EEST 2022
+Team1: Eintracht Frankfurt
+Team2: VfL Wolfsburg
+Scope: 0:01
+------------------------------------
+Match: Sat Sep 10 00:00:00 EEST 2022
+Team1: FC Bayern Munich
+Team2: Stuttgart
+Scope: 2:02
+------------------------------------
+Match: Sat Sep 10 00:00:00 EEST 2022
+Team1: RB Leipzig
+Team2: Borussia Dortmund
+Scope: 3:00
+------------------------------------
+Match: Sat Sep 10 00:00:00 EEST 2022
+Team1: FC Schalke 04
+Team2: VfL Bochum
+Scope: 3:01
+------------------------------------
+Match: Sun Sep 11 00:00:00 EEST 2022
+Team1: 1. FC Cologne
+Team2: 1. FC Union Berlin
+Scope: 0:01
+------------------------------------
+Match: Sun Sep 11 00:00:00 EEST 2022
+Team1: Freiburg
+Team2: Borussia Monchengladbach
+Scope: 0:00
+------------------------------------
+Match: Fri Sep 16 00:00:00 EEST 2022
+Team1: 1. FSV Mainz 05
+Team2: Hertha BSC
+Scope: 1:01
+------------------------------------
+Match: Sat Sep 17 00:00:00 EEST 2022
+Team1: Borussia Dortmund
+Team2: FC Schalke 04
+Scope: 1:00
+------------------------------------
+Match: Sat Sep 17 00:00:00 EEST 2022
+Team1: Bayer 04 Leverkusen
+Team2: Werder Bremen
+Scope: 1:01
+------------------------------------
+Match: Sat Sep 17 00:00:00 EEST 2022
+Team1: FC Augsburg
+Team2: FC Bayern Munich
+Scope: 1:00
+------------------------------------
+Match: Sat Sep 17 00:00:00 EEST 2022
+Team1: Stuttgart
+Team2: Eintracht Frankfurt
+Scope: 1:03
+------------------------------------
+Match: Sat Sep 17 00:00:00 EEST 2022
+Team1: Borussia Monchengladbach
+Team2: RB Leipzig
+Scope: 3:00
+------------------------------------
+Match: Sun Sep 18 00:00:00 EEST 2022
+Team1: 1. FC Union Berlin
+Team2: VfL Wolfsburg
+Scope: 2:00
+------------------------------------
+Match: Sun Sep 18 00:00:00 EEST 2022
+Team1: VfL Bochum
+Team2: 1. FC Cologne
+Scope: 1:01
+------------------------------------
+Match: Sun Sep 18 00:00:00 EEST 2022
+Team1: TSG 1899 Hoffenheim
+Team2: Freiburg
+Scope: 0:00
+------------------------------------
+Match: Fri Sep 30 00:00:00 EEST 2022
+Team1: FC Bayern Munich
+Team2: Bayer 04 Leverkusen
+Scope: 4:00
+------------------------------------
+Match: Sat Oct 01 00:00:00 EEST 2022
+Team1: VfL Wolfsburg
+Team2: Stuttgart
+Scope: 3:02
+------------------------------------
+Match: Sat Oct 01 00:00:00 EEST 2022
+Team1: 1. FC Cologne
+Team2: Borussia Dortmund
+Scope: 3:02
+------------------------------------
+Match: Sat Oct 01 00:00:00 EEST 2022
+Team1: Freiburg
+Team2: 1. FSV Mainz 05
+Scope: 2:01
+------------------------------------
+Match: Sat Oct 01 00:00:00 EEST 2022
+Team1: Eintracht Frankfurt
+Team2: 1. FC Union Berlin
+Scope: 2:00
+------------------------------------
+Match: Sat Oct 01 00:00:00 EEST 2022
+Team1: RB Leipzig
+Team2: VfL Bochum
+Scope: 4:00
+------------------------------------
+Match: Sat Oct 01 00:00:00 EEST 2022
+Team1: Werder Bremen
+Team2: Borussia Monchengladbach
+Scope: 5:01
+------------------------------------
+Match: Sun Oct 02 00:00:00 EEST 2022
+Team1: Hertha BSC
+Team2: TSG 1899 Hoffenheim
+Scope: 1:01
+------------------------------------
+Match: Sun Oct 02 00:00:00 EEST 2022
+Team1: FC Schalke 04
+Team2: FC Augsburg
+Scope: 2:03
+------------------------------------
+Match: Fri Oct 07 00:00:00 EEST 2022
+Team1: TSG 1899 Hoffenheim
+Team2: Werder Bremen
+Scope: 1:02
+------------------------------------
+Match: Sat Oct 08 00:00:00 EEST 2022
+Team1: 1. FSV Mainz 05
+Team2: RB Leipzig
+Scope: 1:01
+------------------------------------
+Match: Sat Oct 08 00:00:00 EEST 2022
+Team1: FC Augsburg
+Team2: VfL Wolfsburg
+Scope: 1:01
+------------------------------------
+Match: Sat Oct 08 00:00:00 EEST 2022
+Team1: VfL Bochum
+Team2: Eintracht Frankfurt
+Scope: 3:00
+------------------------------------
+Match: Sat Oct 08 00:00:00 EEST 2022
+Team1: Bayer 04 Leverkusen
+Team2: FC Schalke 04
+Scope: 4:00
+------------------------------------
+Match: Sat Oct 08 00:00:00 EEST 2022
+Team1: Borussia Dortmund
+Team2: FC Bayern Munich
+Scope: 2:02
+------------------------------------
+Match: Sun Oct 09 00:00:00 EEST 2022
+Team1: Borussia Monchengladbach
+Team2: 1. FC Cologne
+Scope: 5:02
+------------------------------------
+Match: Sun Oct 09 00:00:00 EEST 2022
+Team1: Hertha BSC
+Team2: Freiburg
+Scope: 2:02
+------------------------------------
+Match: Sun Oct 09 00:00:00 EEST 2022
+Team1: Stuttgart
+Team2: 1. FC Union Berlin
+Scope: 0:01
+------------------------------------
+Match: Fri Oct 14 00:00:00 EEST 2022
+Team1: FC Schalke 04
+Team2: TSG 1899 Hoffenheim
+Scope: 0:03
+------------------------------------
+Match: Sat Oct 15 00:00:00 EEST 2022
+Team1: Werder Bremen
+Team2: 1. FSV Mainz 05
+Scope: 0:02
+------------------------------------
+Match: Sat Oct 15 00:00:00 EEST 2022
+Team1: Stuttgart
+Team2: VfL Bochum
+Scope: 4:01
+------------------------------------
+Match: Sat Oct 15 00:00:00 EEST 2022
+Team1: VfL Wolfsburg
+Team2: Borussia Monchengladbach
+Scope: 2:02
+------------------------------------
+Match: Sat Oct 15 00:00:00 EEST 2022
+Team1: Eintracht Frankfurt
+Team2: Bayer 04 Leverkusen
+Scope: 5:01
+------------------------------------
+Match: Sat Oct 15 00:00:00 EEST 2022
+Team1: RB Leipzig
+Team2: Hertha BSC
+Scope: 3:02
+------------------------------------
+Match: Sun Oct 16 00:00:00 EEST 2022
+Team1: 1. FC Cologne
+Team2: FC Augsburg
+Scope: 3:02
+------------------------------------
+Match: Sun Oct 16 00:00:00 EEST 2022
+Team1: 1. FC Union Berlin
+Team2: Borussia Dortmund
+Scope: 2:00
+------------------------------------
+Match: Sun Oct 16 00:00:00 EEST 2022
+Team1: FC Bayern Munich
+Team2: Freiburg
+Scope: 5:00
+------------------------------------
+Match: Fri Oct 21 00:00:00 EEST 2022
+Team1: 1. FSV Mainz 05
+Team2: 1. FC Cologne
+Scope: 5:00
+------------------------------------
+Match: Sat Oct 22 00:00:00 EEST 2022
+Team1: TSG 1899 Hoffenheim
+Team2: FC Bayern Munich
+Scope: 0:02
+------------------------------------
+Match: Sat Oct 22 00:00:00 EEST 2022
+Team1: Freiburg
+Team2: Werder Bremen
+Scope: 2:00
+------------------------------------
+Match: Sat Oct 22 00:00:00 EEST 2022
+Team1: Bayer 04 Leverkusen
+Team2: VfL Wolfsburg
+Scope: 2:02
+------------------------------------
+Match: Sat Oct 22 00:00:00 EEST 2022
+Team1: FC Augsburg
+Team2: RB Leipzig
+Scope: 3:03
+------------------------------------
+Match: Sat Oct 22 00:00:00 EEST 2022
+Team1: Borussia Dortmund
+Team2: Stuttgart
+Scope: 5:00
+------------------------------------
+Match: Sat Oct 22 00:00:00 EEST 2022
+Team1: Borussia Monchengladbach
+Team2: Eintracht Frankfurt
+Scope: 1:03
+------------------------------------
+Match: Sun Oct 23 00:00:00 EEST 2022
+Team1: VfL Bochum
+Team2: 1. FC Union Berlin
+Scope: 2:01
+------------------------------------
+Match: Sun Oct 23 00:00:00 EEST 2022
+Team1: Hertha BSC
+Team2: FC Schalke 04
+Scope: 2:01
+------------------------------------
+Match: Fri Oct 28 00:00:00 EEST 2022
+Team1: Werder Bremen
+Team2: Hertha BSC
+Scope: 1:00
+------------------------------------
+Match: Sat Oct 29 00:00:00 EEST 2022
+Team1: Stuttgart
+Team2: FC Augsburg
+Scope: 2:01
+------------------------------------
+Match: Sat Oct 29 00:00:00 EEST 2022
+Team1: RB Leipzig
+Team2: Bayer 04 Leverkusen
+Scope: 2:00
+------------------------------------
+Match: Sat Oct 29 00:00:00 EEST 2022
+Team1: FC Bayern Munich
+Team2: 1. FSV Mainz 05
+Scope: 6:02
+------------------------------------
+Match: Sat Oct 29 00:00:00 EEST 2022
+Team1: VfL Wolfsburg
+Team2: VfL Bochum
+Scope: 4:00
+------------------------------------
+Match: Sat Oct 29 00:00:00 EEST 2022
+Team1: Eintracht Frankfurt
+Team2: Borussia Dortmund
+Scope: 1:02
+------------------------------------
+Match: Sun Oct 30 00:00:00 EEST 2022
+Team1: FC Schalke 04
+Team2: Freiburg
+Scope: 0:02
+------------------------------------
+Match: Sun Oct 30 00:00:00 EEST 2022
+Team1: 1. FC Cologne
+Team2: TSG 1899 Hoffenheim
+Scope: 1:01
+------------------------------------
+Match: Sun Oct 30 00:00:00 EEST 2022
+Team1: 1. FC Union Berlin
+Team2: Borussia Monchengladbach
+Scope: 2:01
+------------------------------------
+Match: Fri Nov 04 00:00:00 EET 2022
+Team1: Borussia Monchengladbach
+Team2: Stuttgart
+Scope: 3:01
+------------------------------------
+Match: Sat Nov 05 00:00:00 EET 2022
+Team1: Hertha BSC
+Team2: FC Bayern Munich
+Scope: 2:03
+------------------------------------
+Match: Sat Nov 05 00:00:00 EET 2022
+Team1: TSG 1899 Hoffenheim
+Team2: RB Leipzig
+Scope: 1:03
+------------------------------------
+Match: Sat Nov 05 00:00:00 EET 2022
+Team1: FC Augsburg
+Team2: Eintracht Frankfurt
+Scope: 1:02
+------------------------------------
+Match: Sat Nov 05 00:00:00 EET 2022
+Team1: Borussia Dortmund
+Team2: VfL Bochum
+Scope: 3:00
+------------------------------------
+Match: Sat Nov 05 00:00:00 EET 2022
+Team1: 1. FSV Mainz 05
+Team2: VfL Wolfsburg
+Scope: 0:03
+------------------------------------
+Match: Sat Nov 05 00:00:00 EET 2022
+Team1: Werder Bremen
+Team2: FC Schalke 04
+Scope: 2:01
+------------------------------------
+Match: Sun Nov 06 00:00:00 EET 2022
+Team1: Bayer 04 Leverkusen
+Team2: 1. FC Union Berlin
+Scope: 5:00
+------------------------------------
+Match: Sun Nov 06 00:00:00 EET 2022
+Team1: Freiburg
+Team2: 1. FC Cologne
+Scope: 2:00
+------------------------------------
+Match: Tue Nov 08 00:00:00 EET 2022
+Team1: VfL Wolfsburg
+Team2: Borussia Dortmund
+Scope: 2:00
+------------------------------------
+Match: Tue Nov 08 00:00:00 EET 2022
+Team1: Stuttgart
+Team2: Hertha BSC
+Scope: 2:01
+------------------------------------
+Match: Tue Nov 08 00:00:00 EET 2022
+Team1: VfL Bochum
+Team2: Borussia Monchengladbach
+Scope: 2:01
+------------------------------------
+Match: Tue Nov 08 00:00:00 EET 2022
+Team1: FC Bayern Munich
+Team2: Werder Bremen
+Scope: 6:01
+------------------------------------
+Match: Wed Nov 09 00:00:00 EET 2022
+Team1: 1. FC Cologne
+Team2: Bayer 04 Leverkusen
+Scope: 1:02
+------------------------------------
+Match: Wed Nov 09 00:00:00 EET 2022
+Team1: RB Leipzig
+Team2: Freiburg
+Scope: 3:01
+------------------------------------
+Match: Wed Nov 09 00:00:00 EET 2022
+Team1: FC Schalke 04
+Team2: 1. FSV Mainz 05
+Scope: 1:00
+------------------------------------
+Match: Wed Nov 09 00:00:00 EET 2022
+Team1: 1. FC Union Berlin
+Team2: FC Augsburg
+Scope: 2:02
+------------------------------------
+Match: Wed Nov 09 00:00:00 EET 2022
+Team1: Eintracht Frankfurt
+Team2: TSG 1899 Hoffenheim
+Scope: 4:02
+------------------------------------
+Match: Fri Nov 11 00:00:00 EET 2022
+Team1: Borussia Monchengladbach
+Team2: Borussia Dortmund
+Scope: 4:02
+------------------------------------
+Match: Sat Nov 12 00:00:00 EET 2022
+Team1: TSG 1899 Hoffenheim
+Team2: VfL Wolfsburg
+Scope: 1:02
+------------------------------------
+Match: Sat Nov 12 00:00:00 EET 2022
+Team1: FC Augsburg
+Team2: VfL Bochum
+Scope: 0:01
+------------------------------------
+Match: Sat Nov 12 00:00:00 EET 2022
+Team1: Hertha BSC
+Team2: 1. FC Cologne
+Scope: 2:00
+------------------------------------
+Match: Sat Nov 12 00:00:00 EET 2022
+Team1: Werder Bremen
+Team2: RB Leipzig
+Scope: 1:02
+------------------------------------
+Match: Sat Nov 12 00:00:00 EET 2022
+Team1: Bayer 04 Leverkusen
+Team2: Stuttgart
+Scope: 2:00
+------------------------------------
+Match: Sat Nov 12 00:00:00 EET 2022
+Team1: FC Schalke 04
+Team2: FC Bayern Munich
+Scope: 0:02
+------------------------------------
+Match: Sun Nov 13 00:00:00 EET 2022
+Team1: 1. FSV Mainz 05
+Team2: Eintracht Frankfurt
+Scope: 1:01
+------------------------------------
+Match: Sun Nov 13 00:00:00 EET 2022
+Team1: Freiburg
+Team2: 1. FC Union Berlin
+Scope: 4:01

@@ -1,8 +1,9 @@
 package classworks.lesson17_20230515.fileReaderWriter;
 
+import java.io.Serializable;
 import java.util.Date;
 
-public class Match {
+public class Match implements Serializable {
   private Date date;
   private String team1;
   private String score;
