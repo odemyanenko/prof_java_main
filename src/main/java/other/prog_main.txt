@@ -1,0 +1,102 @@
+Лекция 9
+Повтор коллекций List, HashMap, HashSet
+Comparable & Comparator
+TreeSet, HashSet - Сортировка коллекций
+
+Лекция 10
+Iterator
+Practice
+
+Лекция 11
+Stack, Queue, Deque
+
+Лекция 12
+Tree
+Graph
+Practice
+
+Лекция 13
+Итог модуля 2
+binaryTree
+graphExample
+list, map, set, stack, queue, compare, sort ...
+Тест
+
+Лекция 14 - Результат теста
+Допзанятия по Модуль 2
+
+Лекция 15 - Модуль 3
+анонимные классы
+функциональные интерфейсы
+лямбды (начало)
+
+Лекция 16 - Модуль 3
+лямбды (окончание)
+стандартные функциональные интерфейсы Java
+
+Лекция 17 - Модуль 3
+Stream API
+
+Practice
+
+Лекция 18 - Модуль 3
+Stream API
+Flat map
+Collectors
+Practice
+
+
+Лекция 19 - Модуль 4
+I/O java
+Reading / Writing streams
+
+Лекция 20 - Модуль 5
+Regular Expression
+
+Лекция 21 - Модуль 5
+Class String, StringBuilder, StringBuffer
+
+Лекция 22 - Модуль 5
+Generics
+Optional
+
+Лекция 23 - Модуль 5
+Exceptions
+
+Лекция 24 - Модуль 5
+Junit, Mockito
+LocalDate
+
+Лекция 25 - Модуль 5
+Тест
+
+
+Лекция 26-27-28-29 - Модуль 6
+Многопоточность - теоретическое обоснование, примеры
+Создание потоков
+Жизненный цикл потоков
+Daemon
+Прерывание потоков
+Синхронизация, Mutex, Monitor
+Основные методы Object
+Java util concurrent. Concurrent collections
+Executors
+
+Практика
+
+
+Лекция 30 - Тест
+
+Лекция 31-40 - Модуль 7
+Apache Maven, сборка проектов.
+Принципы программирования: DRY, YAGNI, KISS, SOLID.
+Reflections. Annotations..
+Spring Framework: Introduction, Context and Beans
+Spring Framework: Beans configuration
+Spring Boot: Onion (Hexagonal) architecture
+Spring Boot: Implementing Rest Controllers
+Java JDBC API, работа с базами данных
+Spring Boot: JPA and databases
+Spring Boot: validation
+Spring Boot: logging and AOP basics
+Spring Boot: scheduled jobs

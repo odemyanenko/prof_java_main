@@ -6,9 +6,6 @@ get() и put() для чтения и записи объектов в коро�
 Используйте Generics для обеспечения типобезопасности.
 */
 
-import java.util.ArrayList;
-import java.util.List;
-
 public class Task1 {
   public static void main(String[] args) {
     Box<Integer> boxInteger = new Box<>("Box with Integer");
@@ -26,9 +23,9 @@ public class Task1 {
     boxString.put("Four");
     boxString.put("Five");
 
-    System.out.println("Info: " + boxInteger.toString());
+    System.out.println("Info: " + boxInteger);
     System.out.println("Element with index = 2 : " + boxInteger.get(2));
-    System.out.println("Info: " + boxString.toString());
+    System.out.println("Info: " + boxString);
     System.out.println("Element with index = 2 : " + boxString.get(2));
   }
 }
