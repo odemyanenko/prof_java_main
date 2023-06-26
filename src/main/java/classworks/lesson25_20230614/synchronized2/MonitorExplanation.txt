@@ -1,0 +1,47 @@
+public class Main{
+private Object obj = new Object;
+
+public void doSomething() {
+// какая-то логика доступная для всех потоков
+
+synchronized (obj) {
+// логика которая одновременно доступна только для одного потока
+    obj.someImportantMethod();
+
+    }
+}
+
+}
+
+//================ после компиляции ============
+
+
+public class Main{
+private Object obj = new Object;
+
+public void doSomething() throw InterruptException {
+// какая-то логика доступная для всех потоков
+
+// логика которая одновременно доступна только для одного потока
+
+добавится код, согласно которому
+* до тех пор пока монитор(мьютекс) объекта obj занят - любой другой поток
+кроме того который его захватил - спит
+while (obj.getMonitor().isBusy()) {
+sleep(10)
+}
+
+// пометить монитор как занятый
+
+obj.getMonitor().isBusy() = true + info про наш поток
+
+выполнить
+ obj.someImportantMethod();
+
+ //освободить монитор
+    obj.getMonitor().isBusy() = false
+
+    }
+}
+
+}
