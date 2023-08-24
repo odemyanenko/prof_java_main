@@ -17,6 +17,9 @@ public class ProductService {
 
   //*  самый дорогой СНЭК
   public Optional<Product> getProductWithMaxPriceByCategory(String category) {
+    if (category == null || category.isEmpty()) {
+      throw new IllegalArgumentException("Category can not be Null");
+    }
     return repository.getItems().stream()
             .filter(product -> product.getCategory().getName().equals(category))
             .max(Comparator.comparing(Product::getPrice));
@@ -70,7 +73,7 @@ public class ProductService {
     }
 
     return repository.getItems().stream()
-            .filter(p -> p.getCategory().getName().equals("DRINKS"))
+            .filter(p -> p.getCategory().getName().equals(category))
             .max((o1, o2) -> (int) (o1.getMargin() - o2.getMargin()));
   }
 
@@ -79,11 +82,14 @@ public class ProductService {
      return repository.getItems().stream()
             .collect(Collectors.groupingBy(
                     Product::getCategory,
-                    Collectors.averagingDouble(p -> p.getPrice().doubleValue())));
+                    Collectors.averagingDouble(Product::getMargin)));
   }
 
 //     *  первые три товара ФУД которые участвуют в акции и у которых самая низкая маржа
   public List<Product> getProductThreeInAdvWithMinMarginByCategory(String category){
+    if (category == null || category.isEmpty()) {
+      throw new IllegalArgumentException("Category can not be Null");
+    }
     return repository.getItems().stream()
             .filter(product -> product.getCategory().getName().equals(category) && product.isAdv())
             .sorted((o1, o2) -> (int) (o1.getMargin() - o2.getMargin()))

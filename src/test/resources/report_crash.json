@@ -1,0 +1,4 @@
+[
+  {"CATEGORY123": "FOOD#1","NAME": "Pasta#1","FACTORY": "Barilla#1","QUANTITY": 150,"ISPACKED": true,"ISADV": false,"PRICE": 1.49,"MARGIN": 15.0,"ISDEBT": false},
+  {"CATEGORY": "DRINKS#2","NAME": "Mineral Water#2","FACTORY": "Coca-Cola#2","QUANTITY": 300,"ISPACKED": true,"ISADV": false,"PRICE": 0.99,"MARGIN": 20.0,"ISDEBT": false}
+]

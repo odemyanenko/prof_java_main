@@ -1,7 +1,7 @@
 package homeworks.hw_20230814;
 
 import homeworks.hw_20230814.repositories.WarehouseRepository;
-import homeworks.hw_20230814.services.FactorService;
+import homeworks.hw_20230814.services.FactoryService;
 import homeworks.hw_20230814.services.ProductService;
 import homeworks.hw_20230814.services.utils.LoadWarehouseUtil;
 
@@ -9,13 +9,14 @@ public class WarehouseApp {
   public static void main(String[] args) {
     WarehouseRepository repository = new WarehouseRepository();
 
-    FactorService factorService = new FactorService();
+    FactoryService factorService = new FactoryService(repository);
     ProductService productService = new ProductService(repository);
+    LoadWarehouseUtil util = new LoadWarehouseUtil();
 
-    LoadWarehouseUtil.getDataFromJSON(repository, "/report.json");
+    util.getDataFromJSON(repository, "/report.json");
 
     System.out.println("1. ай ди всех компаний");
-    System.out.println(factorService.getIdAllFactors(repository.getFactories()));
+    System.out.println(factorService.getIdAllFactories());
 
     System.out.println("-----------------------------------------");
     System.out.println("2. самый дорогой СНЭК");

@@ -5,8 +5,7 @@ import java.util.UUID;
 
 public class Category {
   private final UUID id;
-  private String name;
-
+  private final String name;
 
   public Category(String name) {
     this.id = UUID.randomUUID();
