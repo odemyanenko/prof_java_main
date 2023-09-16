@@ -1,0 +1,2 @@
+агрегация,  композиция: https://habr.com/ru/articles/354046/
+https://javarush.com/groups/posts/1967-otnoshenija-mezhdu-klassami-nasledovanie-kompozicija-i-agregirovanie-
